@@ -1,0 +1,5 @@
+F:\vvp\DotNet\DotNetAssignment\Practical1\bin\Debug\Practical1.exe.config
+F:\vvp\DotNet\DotNetAssignment\Practical1\bin\Debug\Practical1.exe
+F:\vvp\DotNet\DotNetAssignment\Practical1\bin\Debug\Practical1.pdb
+F:\vvp\DotNet\DotNetAssignment\Practical1\obj\Debug\Practical1.exe
+F:\vvp\DotNet\DotNetAssignment\Practical1\obj\Debug\Practical1.pdb
